@@ -2,15 +2,15 @@
 
 This program displays "Hello, world. It's a beautiful day." in the console.
 
-The purpose of this project is to demonstrate a working knowledge of combining Git, an IDE (Visual Studio Code in this case), and JavaScript to display Hello World.
+The purpose of this project is to demonstrate a collaboration Git, Visual Studio Code, and JavaScript.
 
 [Software Demo Video](https://youtu.be/wV4jUuB8XIk)
 
 # Development Environment
 
-Visual Studio Code was used as the IDE for this project and Git was used for version control.
-
-This program is written in JavaScript
+* Visual Studio Code
+* JavaScript
+* Git/GitHub
 
 # Useful Websites
 
