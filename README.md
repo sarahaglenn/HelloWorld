@@ -4,7 +4,7 @@ This program displays "Hello, world. It's a beautiful day." in the console.
 
 The purpose of this project is to demonstrate a working knowledge of combining Git, an IDE (Visual Studio Code in this case), and JavaScript to display Hello World.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/wV4jUuB8XIk)
 
 # Development Environment
 
